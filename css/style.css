@@ -57,6 +57,10 @@ nav li{
 	color:white;
 
 }
+a{
+	max-width: 300px;
+	margin-left: 25%;
+}
 
 a:link{
 	text-decoration: overline;
@@ -68,6 +72,13 @@ a:hover{
 	}
 a:visited{
 	color:white;
+}
+
+.sound_transit{
+	display:grid;
+	grid-template-columns: 1fr 1fr;
+	background-color: white;
+	margin-bottom: 5%;
 }
 
 .canfield_consortium{
@@ -91,6 +102,10 @@ a:visited{
 }
 
 #maize_blue_img{
+	padding-top: 5%;
+}
+
+#sound_transit_img{
 	padding-top: 5%;
 }
 
