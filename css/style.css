@@ -18,7 +18,7 @@ h1{
 	border-width: 1px;
 	border-bottom: solid;
 	padding-bottom: 0;
-	margin-right: 100px;
+	margin-right: 0px;
 }
 
 .skip{
@@ -52,7 +52,7 @@ nav li{
 .nav_links{
 	display: flex;
 	flex-direction: row;
-	justify-content: right;
+	justify-content: left;
 	text-decoration: none;
 	color:white;
 
