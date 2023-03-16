@@ -59,7 +59,7 @@ nav li{
 }
 a{
 	max-width: 300px;
-	margin-left: 25%;
+	margin-left: 1%;
 }
 
 a:link{
@@ -78,6 +78,18 @@ a:visited{
 	display:grid;
 	grid-template-columns: 1fr 1fr;
 	background-color: white;
+	margin-bottom: 5%;
+}
+
+#sound_transit_img, #plymouth_canton_img, #google_assistant_img, #canfield_consortium_img, #maize_blue_img{
+	max-width: 300px;
+	margin-left: 50%;
+}
+
+.plymouth_canton{
+	display:grid;
+	grid-template-columns: 1fr 1fr;
+	background-color: violet;
 	margin-bottom: 5%;
 }
 
