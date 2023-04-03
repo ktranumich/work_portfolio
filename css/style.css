@@ -74,6 +74,20 @@ a:visited{
 	color:white;
 }
 
+.capstone{
+	display:grid;
+	grid-template-columns: 1fr 1fr;
+	background-color: white;
+	margin-bottom: 5%;
+}
+
+.si_554{
+	display:grid;
+	grid-template-columns: 1fr 1fr;
+	background-color: white;
+	margin-bottom: 5%;
+}
+
 .sound_transit{
 	display:grid;
 	grid-template-columns: 1fr 1fr;
@@ -81,36 +95,37 @@ a:visited{
 	margin-bottom: 5%;
 }
 
-#sound_transit_img, #plymouth_canton_img, #google_assistant_img, #canfield_consortium_img, #maize_blue_img{
+#wego_logo, #mental_health, #sound_transit_img, #plymouth_canton_img, #google_assistant_img, #canfield_consortium_img, #maize_blue_img{
 	max-width: 300px;
 	margin-left: 50%;
+	margin-top: 8%;
 }
 
 .plymouth_canton{
 	display:grid;
 	grid-template-columns: 1fr 1fr;
-	background-color: violet;
+	background-color: white;
 	margin-bottom: 5%;
 }
 
 .canfield_consortium{
 	display:grid;
 	grid-template-columns: 1fr 1fr;
-	background-color: aquamarine;
+	background-color: white;
 	margin-bottom: 5%;
 }
 
 .google_assistant{
 		display:grid;
 		grid-template-columns: 1fr 1fr;
-		background-color: #e0eefc;
+		background-color: white;
 		margin-bottom: 5%;
 }
 
 .maize_blue{
 	display:grid;
 	grid-template-columns: 1fr 1fr;
-	background-color: peachpuff;
+	background-color: white;
 }
 
 #maize_blue_img{
